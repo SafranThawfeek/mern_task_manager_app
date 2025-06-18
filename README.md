@@ -1,4 +1,3 @@
-# mern_task_manager_app
 # MERN Task Manager App
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge)
